@@ -7,9 +7,12 @@ Useful Links:
  * [UI5 Developer Center](http://scn.sap.com/community/developer-center/front-end) - Community for UI5
  * [DevDocs](http://devdocs.io/) - Various JS documentations in one place with offline support
  * [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - Some basic concepts of javascript
+ * [Code academy](https://www.codecademy.com) - Learning javscript with lessons online
 
+Getting stared with WEB IDE
 
- Getting started without WEB IDE
+ * [Create a hana trial account](https://account.hanatrial.ondemand.com/)
+ * [Getting started without WEB IDE](https://www.sapstore.com/solutions/60009/SAP-Web-IDE)
 
 Make sure you installed [git](http://git-scm.com/), [node.js](http://nodejs.org/), [npm](https://www.npmjs.org/) and [grunt](http://gruntjs.com/).
 If you haven't used [Grunt](http://gruntjs.com/) before, be sure to check out the [Getting Started](http://gruntjs.com/getting-started) guide, as it explains how to create a [Gruntfile](http://gruntjs.com/sample-gruntfile) as well as install and use Grunt plugins. Once you're familiar with that process, you may install this plugin with this command:
